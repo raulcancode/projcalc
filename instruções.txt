@@ -1,0 +1,19 @@
+Faça um programa Python modularizado que seja uma calculadora com as quatro operações 
+aritméticas com dois números, que tenha um módulo e que tenha um módulo principal e 
+um módulo chamado aritmético, além de módulos que possuam função de entrada e saída.
+
+
+
+
+__main__.py
+
+__aritmetico__.py
+
+__entrada__.py
+
+__saida__.py
+
+
+
+
+
